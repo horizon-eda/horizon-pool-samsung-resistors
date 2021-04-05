@@ -1,0 +1,9 @@
+{
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "Samsung chip resistors (RC and RU series)",
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+    ],
+    "type": "pool",
+    "uuid": "baebaf70-d651-429a-a1a3-84afba562a01"
+}
